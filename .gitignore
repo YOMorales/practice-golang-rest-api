@@ -1,0 +1,22 @@
+# User specific & automatically generated files #
+#################################################
+/dev/sources
+
+# IDE and editor specific files #
+#################################
+.project
+.buildpath
+.settings
+.idea
+
+# OS generated files #
+######################
+*~
+.swp
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
